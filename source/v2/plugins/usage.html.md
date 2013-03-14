@@ -33,7 +33,7 @@ Vagrant will show an error message that a plugin failed to load.
 ## Usage
 
 Once a plugin is installed, you should refer to the plugin's documentation
-to see exaclty how to use it. Plugins which add commands should be instantly
+to see exactly how to use it. Plugins which add commands should be instantly
 available via `vagrant`, provisioners should be available via
 `config.vm.provision`, etc.
 
